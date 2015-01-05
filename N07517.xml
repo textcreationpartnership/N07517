@@ -115,13 +115,14 @@
          <text xml:lang="eng">
             <front>
                <div type="half_title">
-                  <pb facs="tcp:009595_0000_0F76DC771435A138"/>
-                  <pb facs="tcp:009595_0001_0F76DC77DF3D3CF8" rendition="simple:additions"/>
+                  <pb facs="unknown:009595_0000_0F76DC771435A138"/>
+                  <pb facs="unknown:009595_0001_0F76DC77DF3D3CF8"
+                      rendition="simple:additions"/>
                   <p>A BATTLE! A BATTLE! A BATTLE of SQUIRT Where no Man is kill'd And no Man is hurt!</p>
                   <p>To the TUNE of three blue <hi>BEANS,</hi> in a blue <hi>BLADDER;</hi> RATTLE <hi>BLADDER,</hi> RATTLE!</p>
                </div>
                <div type="title_page">
-                  <pb facs="tcp:009595_0002_0F76DC78B389F840"/>
+                  <pb facs="unknown:009595_0002_0F76DC78B389F840"/>
                   <p>A BATTLE! A BATTLE! A BATTLE of SQUIRT, WHERE NO MAN IS KILL'D, AND NO MAN IS HURT!</p>
                   <p>To the TUNE of three blue <hi>BEANS,</hi> in a blue <hi>BLADDER;</hi> RATTLE <hi>BLADDER</hi> RATTLE.</p>
                   <p>To which is added, The Quaker's Addreſs, AND THE <hi>SCHOOL-BOY'S</hi> ANSWER To an inſolent FELLOW</p>
@@ -146,7 +147,7 @@
             </front>
             <body>
                <div type="poem">
-                  <pb n="4" facs="tcp:009595_0003_0F76DC798DA6FAD8"/>
+                  <pb n="4" facs="unknown:009595_0003_0F76DC798DA6FAD8"/>
                   <head>A BATTLE, A BATTLE, <hi>&amp;c.</hi>
                   </head>
                   <lg>
@@ -175,7 +176,7 @@
                      <l>Prepare their Guns and Swords for Battle.</l>
                   </lg>
                   <lg>
-                     <pb n="5" facs="tcp:009595_0004_0F76DC7A70CD58E0"/>
+                     <pb n="5" facs="unknown:009595_0004_0F76DC7A70CD58E0"/>
                      <l>So Acts the ſly perfidious Bat,</l>
                      <l>Sometimes for this ſide, ſometimes that.</l>
                   </lg>
@@ -208,7 +209,7 @@
                      <l>You ſay in four are Units ten:</l>
                   </lg>
                   <lg>
-                     <pb n="6" facs="tcp:009595_0005_0F76DC7B10E3B718"/>
+                     <pb n="6" facs="unknown:009595_0005_0F76DC7B10E3B718"/>
                      <l>For plain it is, and ſure's a Gun,</l>
                      <l>Four contain four, three, two and One.</l>
                   </lg>
@@ -241,7 +242,7 @@
                      <l>Let no one ſtand with hands in Pocket</l>
                      <l>Each Meeting Door—quick, quick unlock it!</l>
                      <l>
-                        <pb n="7" facs="tcp:009595_0006_0F76DC7CC2260898"/>
+                        <pb n="7" facs="unknown:009595_0006_0F76DC7CC2260898"/>
 Be all our Forces hither led,</l>
                      <l>With beating Drums, and Colours ſpread.</l>
                   </lg>
@@ -274,7 +275,7 @@ Be all our Forces hither led,</l>
                      <l>The Fiends they heard had cloven Feet.</l>
                   </lg>
                   <lg>
-                     <pb n="8" facs="tcp:009595_0007_0F76DC7D644F2698"/>
+                     <pb n="8" facs="unknown:009595_0007_0F76DC7D644F2698"/>
                      <l>THEY came, they ſaw, they found 'em civil</l>
                      <l>With no intent of Harm or Evil</l>
                      <l>But humbly to requeſt Redreſs</l>
@@ -309,7 +310,7 @@ Be all our Forces hither led,</l>
                      <l>And live, t' enjoy Health, Wealth and Peace</l>
                   </lg>
                   <lg>
-                     <pb n="9" facs="tcp:009595_0008_0F76DC7DD5B8A370"/>
+                     <pb n="9" facs="unknown:009595_0008_0F76DC7DD5B8A370"/>
                      <l>BUT who from henceforth will believe</l>
                      <l>That Babes of Grace cannot deceive?</l>
                      <l>Since outward Sanctity is made</l>
@@ -324,7 +325,7 @@ Be all our Forces hither led,</l>
                   <trailer>FINIS.</trailer>
                </div>
                <div type="poem">
-                  <pb facs="tcp:009595_0009_0F76DC7E9864FAD8"/>
+                  <pb facs="unknown:009595_0009_0F76DC7E9864FAD8"/>
                   <head>THE QUAKERS ADDRESS, AND THE School-Boy's ANSWER, to an inſolent FELLOW. Who accus'd him of STEALING his CHERRIES</head>
                   <lg>
                      <l>MAY't pleaſe the high and Mighty P—</l>
@@ -339,7 +340,7 @@ Be all our Forces hither led,</l>
                      <l>All falſe, malicious and ſevere;</l>
                   </lg>
                   <lg>
-                     <pb n="11" facs="tcp:009595_0010_0F76DC7F66BC9C58"/>
+                     <pb n="11" facs="unknown:009595_0010_0F76DC7F66BC9C58"/>
                      <l>To ſtir up People of no Letters</l>
                      <l>And make us odious to our Betters.</l>
                   </lg>
@@ -374,7 +375,7 @@ Be all our Forces hither led,</l>
                      <l>And underwent hard Blows and Knocks</l>
                   </lg>
                   <lg>
-                     <pb n="12" facs="tcp:009595_0011_0F76DC803A37D2E8"/>
+                     <pb n="12" facs="unknown:009595_0011_0F76DC803A37D2E8"/>
                      <l>The Cart, the Pillory and Stocks;</l>
                      <l>Yet no one of them then turn'd Buffer,</l>
                      <l>But thought it Honour great, to ſuffer.</l>
@@ -406,7 +407,7 @@ Be all our Forces hither led,</l>
                      <l>A great appearance of true Piety:</l>
                   </lg>
                   <lg>
-                     <pb n="13" facs="tcp:009595_0012_0F76DC813825BBC8"/>
+                     <pb n="13" facs="unknown:009595_0012_0F76DC813825BBC8"/>
                      <l>And to be ſure we never thought</l>
                      <l>The Sin lay moſt in being caught.</l>
                   </lg>
@@ -442,7 +443,7 @@ Be all our Forces hither led,</l>
                      <l>Theſe Fellows, Things miſrepreſent,</l>
                   </lg>
                   <lg>
-                     <pb n="14" facs="tcp:009595_0013_0F76DC8194424F50"/>
+                     <pb n="14" facs="unknown:009595_0013_0F76DC8194424F50"/>
                      <l>Who in a hoſtile Mood came down</l>
                      <l>To Butcher us, and burn the Town.</l>
                   </lg>
@@ -474,7 +475,7 @@ Be all our Forces hither led,</l>
                      <l>But we bore all the Burden of it.</l>
                   </lg>
                   <lg>
-                     <pb n="15" facs="tcp:009595_0014_0F76DC825FAF7340"/>
+                     <pb n="15" facs="unknown:009595_0014_0F76DC825FAF7340"/>
                      <l>THROUGH all the Province 'tis well known</l>
                      <l>We have no Intereſt of our own,</l>
                      <l>But ſtrive to make the Sorrows leſs,</l>
@@ -505,7 +506,7 @@ Be all our Forces hither led,</l>
                      <l>This we affirm, but will not ſwear,</l>
                      <l>Before Recorder or the May'r.</l>
                      <l>
-                        <pb n="16" facs="tcp:009595_0015_0F76DC83134F4490"/>
+                        <pb n="16" facs="unknown:009595_0015_0F76DC83134F4490"/>
 If thee, our Faith and Honour try</l>
                      <l>Thee 'll find we will not trick or lie.</l>
                   </lg>
@@ -527,7 +528,8 @@ If thee, our Faith and Honour try</l>
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:009595_0016_0F76DC83D7C18330" rendition="simple:additions"/>
+                  <pb facs="unknown:009595_0016_0F76DC83D7C18330"
+                      rendition="simple:additions"/>
                   <p>KING WAMPUM.</p>
                   <p>OR HARM WATCH, HARM CATCH.</p>
                   <p>And the Lord departed from Iſ—l, and behold He went a Whore<g ref="char:EOLhyphen"/>ing after his own Invention un<g ref="char:EOLhyphen"/>til his abominable Iniquity was found out.</p>
@@ -536,7 +538,7 @@ If thee, our Faith and Honour try</l>
             </front>
             <body>
                <div type="poem">
-                  <pb n="18" facs="tcp:009595_0017_0F76DC849E043828"/>
+                  <pb n="18" facs="unknown:009595_0017_0F76DC849E043828"/>
                   <head>KING WAMPUM, &amp;c.</head>
                   <lg>
                      <l>ASSIST me, Muſe, the Man to paint</l>
@@ -568,7 +570,7 @@ If thee, our Faith and Honour try</l>
                      <l>The Devil came, as we are told.</l>
                   </lg>
                   <lg>
-                     <pb n="19" facs="tcp:009595_0018_0F76DC8554015298"/>
+                     <pb n="19" facs="unknown:009595_0018_0F76DC8554015298"/>
                      <l>AT length a pregnant <hi>Squaw</hi> he ſpies,</l>
                      <l>Which made his luſtful Paſſions riſe;</l>
                      <l>Fain, very fain he would be at her</l>
@@ -599,7 +601,7 @@ If thee, our Faith and Honour try</l>
                      <l>Which you at other Times might trace:</l>
                   </lg>
                   <lg>
-                     <pb n="20" facs="tcp:009595_0019_0F76DC8737D434B0"/>
+                     <pb n="20" facs="unknown:009595_0019_0F76DC8737D434B0"/>
                      <l>Nor did that proud disdainful Sneer</l>
                      <l>In any Feature now appear.</l>
                   </lg>
